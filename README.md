@@ -1,14 +1,17 @@
-# Hi, I'm Jason
+# 你好，我是 Jason
 
-I mainly work on:
+没什么宏大的自我介绍，就是个喜欢写代码、做音乐、折腾 AI 的人。
 
-- Unity / C#
-- AI projects
-- Reaper / Wwise / audio automation
-- content production and tooling
+目前在做的事有点杂：Unity / C#、Python、AI，偶尔也搞音游相关的音频和工具化。
 
-I like:
+不喜欢那种"我是全栈工程师、热爱挑战"之类的废话。
 
-- systems with structure
-- exploratory music and works
-- things that are a little unusual, but more alive
+闲着也是闲着，不如做点东西。
+
+---
+
+**技术：** Unity · C# · Python · AI · 音频
+
+**常听：** 普罗科菲耶夫、肖斯塔科维奇、Magdalena Bay
+
+**口味：** 有结构，但不僵。有探索，但不装。
