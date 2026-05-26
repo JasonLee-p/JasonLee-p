@@ -1,3 +1,14 @@
-## 你好！
+# Hi, I'm Jason
 
-* 我是华中师范大学的一名学生，也是半职业作曲者。
+I mainly work on:
+
+- Unity / C#
+- AI projects
+- Reaper / Wwise / audio automation
+- content production and tooling
+
+I like:
+
+- systems with structure
+- exploratory music and works
+- things that are a little unusual, but more alive
